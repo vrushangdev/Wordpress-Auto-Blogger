@@ -3,7 +3,7 @@ import requests
 import os
 from newspaper import Article
 from blogpost import make_post
-url = "https://news.bitcoin.com/what-uk-bitcoin-investors-should-know-as-tax-deadline-approaches/"
+url = "your fav new site url"
 
 
 def article_content(url):
