@@ -1,4 +1,6 @@
 # Wordpress-Auto-Blogger
 WordPress Auto Poster
-###Link To Youtube Video
-[Youtube Video](http://bit.ly/wpautoblogger)
+
+### Checkout My Youtube Video 
+#### [How To Do Auto Blogging ? ](http://bit.ly/wpautoblogger)
+#### > Don't Forget To Subscribe & Hit 🔔 
